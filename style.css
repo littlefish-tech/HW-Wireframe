@@ -1,0 +1,38 @@
+body {
+  background: #777;
+  color: #777;
+  width: 960px;
+  font-size: 18px;
+  font-family: "Arial", "Helvetica", Helvetica, sans-serif;
+} 
+
+.header{
+  background: #ebebeb;
+}
+.nav{
+  background: #ebebeb;
+}
+.section{
+  background: #ebebeb;
+}
+.aside{
+  background: #ebebeb;
+}
+.footer{
+  background: #ebebeb;
+}
+
+.article{
+  color: #ebebeb;
+  background: #777;
+}
+
+.h1{
+  color: #777;
+  background: #ebebeb;
+}
+
+.p{
+  color: #777;
+  background: #ebebeb;
+}
