@@ -3,7 +3,8 @@
   text-align: center;
 }
 
-body {
+body{
+  margin: 0 auto;
   background: #777;
   color: #777;
   width: 960px;
@@ -11,8 +12,9 @@ body {
   font-family: "Arial", "Helvetica", Helvetica, sans-serif;
 } 
 
+
 #header{
-  
+  margin-top: 20px;
   padding: 20px;
   margin-bottom: 20px;
   background: #ebebeb;
@@ -33,12 +35,13 @@ body {
   padding: 109px;
   float: right;
   width: 45%;
-  margin-bottom: 50px;
+  margin: auto;
   background: #ebebeb;
 }
 
 #article{
   padding: 10px;
+  margin: auto;
   color: #ebebeb;
   background: #777;
 }
