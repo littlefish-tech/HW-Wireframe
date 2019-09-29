@@ -3,6 +3,8 @@
 - HTML
 - CSS
 
+By doing this homework, I learn how to center the text, how I can change the color of the background and the basic layout of a webpage
+
 I figured how I can put P and h1,h2, h3 inside of article container, and section as the parent container
 ```HTML    
     <section id="section">
