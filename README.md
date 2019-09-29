@@ -21,3 +21,7 @@ I figured how I can put P and h1,h2, h3 inside of article container, and section
       p
     </p>
 ```
+
+Please find the preview of my HW-Wireframe homework
+
+![](HW-Wireframe_image.png)
